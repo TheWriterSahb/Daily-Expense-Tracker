@@ -16,6 +16,8 @@ How to run the Daily Expense Tracking System Project
 
 Credential for user panel OR you can register your self:
 
+         Admin Credential
+         
                    Username: testuser@gmail.com
                    
                    Password: 8871801723
